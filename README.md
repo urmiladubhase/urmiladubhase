@@ -64,14 +64,6 @@ React.js • Tailwind • Redux Toolkit • Movie APIs • AI APIs
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 * 🏅 On-the-Spot Award – TCS
@@ -81,13 +73,13 @@ React.js • Tailwind • Redux Toolkit • Movie APIs • AI APIs
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-* 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-* 🌐 Portfolio: *Add if available*
+* 💼 LinkedIn: https://linkedin.com/in/urmiladubhase
+* 📧 Email: urmiladubhase@gmail.com
+
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Urmila Dubhase](https://github.com/urmiladubhase)
 
 <!--
 **urmiladubhase/urmiladubhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
